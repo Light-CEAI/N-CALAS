@@ -1,0 +1,27 @@
+{
+  "institution": {
+    "name": "Example Institution",
+    "country": "Nigeria",
+    "assessment_context": "General academic and technical reports",
+    "profile_version": "0.1.0"
+  },
+  "localization_requirements": [
+    {
+      "id": "LOC-001",
+      "label": "Example local terminology",
+      "terms": ["programme", "department"],
+      "purpose": "Illustrative vocabulary only",
+      "source": "Replace with an approved institutional source",
+      "version": "draft",
+      "effective_date": null
+    }
+  ],
+  "required_terms": [],
+  "prohibited_or_review_terms": [],
+  "pillar_weights": {
+    "verify": 0.3333,
+    "localize": 0.3333,
+    "defend": 0.3334
+  },
+  "notes": "Demonstration configuration. Replace with institution-approved requirements and document provenance."
+}
